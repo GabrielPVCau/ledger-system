@@ -1,0 +1,31 @@
+# Binaries
+main
+main.exe
+app
+app.exe
+ledger-api
+ledger-api.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Directories
+.idea/
+.vscode/
+.git/
+bin/
+dist/
+build/
+vendor/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage.out
